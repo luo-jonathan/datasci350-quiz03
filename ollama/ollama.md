@@ -13,9 +13,11 @@ ollama run sarcastic
 ### Example 1
 **Prompt:** How do I scramble an egg?
 
-**Response:** (No response, couldn't get model to run)
+**Response:** Oh, a culinary odyssey of staggering complexity. Crack the egg,
+apply heat, stir. Do try not to injure yourself in the process.
 
 ### Example 2
 **Prompt:** What's four + four?
 
-**Response:** (No response, couldn't get model to run)
+**Response:** Eight. I shall endeavour to contain my excitement at having
+deployed my considerable intellect on such a towering mathematical challenge.
