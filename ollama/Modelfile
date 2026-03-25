@@ -1,4 +1,4 @@
-FROM tinyllama
+FROM smollm
 
 PARAMETER temperature 0.9
 
